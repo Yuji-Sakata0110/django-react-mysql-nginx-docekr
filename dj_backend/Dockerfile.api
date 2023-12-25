@@ -5,3 +5,5 @@ COPY ./dj_backend/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY ./dj_backend/ .
 CMD python manage.py runserver 0.0.0.0:8000
+
+# まとめて実行したいコマンドがある場合、shellスクリプトを利用する。

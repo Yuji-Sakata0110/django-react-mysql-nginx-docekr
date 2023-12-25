@@ -9,3 +9,9 @@
 ```terminal
 docker compose up -d
 ```
+
+下記にアクセスする。（ポート番号 80）
+
+http://localhost/
+
+![起動後の画像](./assets/nginx-docker.png)
