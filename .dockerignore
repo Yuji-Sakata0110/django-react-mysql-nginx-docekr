@@ -2,3 +2,6 @@ __pycache__
 node_modules
 build
 .env
+Dockerfile
+.dockerignore
+.gitignore

@@ -26,9 +26,9 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn moressss
       </p>
-      <h1>test code</h1>
+      <h1>ddss code hot reload できた</h1>
     </>
   );
 }
